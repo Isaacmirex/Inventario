@@ -1,5 +1,5 @@
 **Inventory**
-##Authors
+**Authors**
 
 Isaac Romero, Heinz Delgado, Gustavo Gualan, Steeven Enriquez
 Description
@@ -11,7 +11,7 @@ Technologies
     Framework: .NET 6
     Cloud Services: Azure
 
-##Components
+**Components**
 
     2 APIs
     1 Web application
@@ -22,10 +22,10 @@ Setup
     Clone the repository.
     Build and run the solution in Visual Studio or using the .NET CLI.
 
-##Usage
+**Usage**
 
     Access the web application to interact with the inventory system.
 
-##License
+**License**
 
 This project is licensed under the UTN License.
