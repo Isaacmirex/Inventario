@@ -1,0 +1,71 @@
+﻿@model IEnumerable<WebInventario.Models.Historial>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>   
+            <th>
+                @Html.DisplayNameFor(model => model.historial_fecha)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.historial_documento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.historial_cab_descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.historial_descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.historial_cantidad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.historial_stock)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.historial_nombreprod)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.historial_fecha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.historial_documento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.historial_cab_descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.historial_descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.historial_cantidad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.historial_stock)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.historial_nombreprod)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.historial_id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.historial_id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.historial_id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

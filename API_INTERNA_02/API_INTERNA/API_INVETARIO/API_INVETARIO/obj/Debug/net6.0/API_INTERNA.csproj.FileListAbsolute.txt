@@ -1,0 +1,1130 @@
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\appsettings.Development.json
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\appsettings.json
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\API_INTERNA.exe
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\API_INTERNA.deps.json
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\API_INTERNA.runtimeconfig.json
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\API_INTERNA.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\API_INTERNA.pdb
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Humanizer.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\MessagePack.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Npgsql.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Common.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.CodeDom.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Text.Json.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.csproj.AssemblyReference.cache
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.AssemblyInfoInputs.cache
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.AssemblyInfo.cs
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.csproj.CoreCompileInputs.cache
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.MvcApplicationPartsAssemblyInfo.cs
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.MvcApplicationPartsAssemblyInfo.cache
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\staticwebassets\msbuild.API_INTERNA.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\staticwebassets\msbuild.build.API_INTERNA.props
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API_INTERNA.props
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API_INTERNA.props
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\staticwebassets.build.json
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\staticwebassets.development.json
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\scopedcss\bundle\API_INTERNA.styles.css
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.csproj.CopyComplete
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\refint\API_INTERNA.dll
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.pdb
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.genruntimeconfig.cache
+D:\Aplicaciones Distribuidas\API_STOCK2\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\ref\API_INTERNA.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\appsettings.Development.json
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\appsettings.json
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\API_INTERNA.exe
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\API_INTERNA.deps.json
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\API_INTERNA.runtimeconfig.json
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\API_INTERNA.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\API_INTERNA.pdb
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Humanizer.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\MessagePack.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Npgsql.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Common.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.CodeDom.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Text.Json.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.csproj.AssemblyReference.cache
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.AssemblyInfoInputs.cache
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.AssemblyInfo.cs
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.csproj.CoreCompileInputs.cache
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.MvcApplicationPartsAssemblyInfo.cs
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.MvcApplicationPartsAssemblyInfo.cache
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\staticwebassets\msbuild.API_INTERNA.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\staticwebassets\msbuild.build.API_INTERNA.props
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API_INTERNA.props
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API_INTERNA.props
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\staticwebassets.build.json
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\staticwebassets.development.json
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\scopedcss\bundle\API_INTERNA.styles.css
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.csproj.CopyComplete
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\refint\API_INTERNA.dll
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.pdb
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.genruntimeconfig.cache
+D:\Aplicaciones Distribuidas\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\ref\API_INTERNA.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\appsettings.Development.json
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\appsettings.json
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\API_INTERNA.exe
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\API_INTERNA.deps.json
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\API_INTERNA.runtimeconfig.json
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\API_INTERNA.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\API_INTERNA.pdb
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Humanizer.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\MessagePack.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Build.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Npgsql.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Common.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.CodeDom.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Text.Json.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.csproj.AssemblyReference.cache
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.GeneratedMSBuildEditorConfig.editorconfig
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.AssemblyInfoInputs.cache
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.AssemblyInfo.cs
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.csproj.CoreCompileInputs.cache
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.MvcApplicationPartsAssemblyInfo.cs
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.MvcApplicationPartsAssemblyInfo.cache
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\staticwebassets.build.json
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\staticwebassets.development.json
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\scopedcss\bundle\API_INTERNA.styles.css
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.csproj.CopyComplete
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\refint\API_INTERNA.dll
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.pdb
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.genruntimeconfig.cache
+C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\APIINTERNA02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\ref\API_INTERNA.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\appsettings.json
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\API_INTERNA.exe
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\API_INTERNA.deps.json
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\API_INTERNA.runtimeconfig.json
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\API_INTERNA.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\API_INTERNA.pdb
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Humanizer.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\MessagePack.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Npgsql.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.csproj.AssemblyReference.cache
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.AssemblyInfoInputs.cache
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.AssemblyInfo.cs
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.csproj.CoreCompileInputs.cache
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\scopedcss\bundle\API_INTERNA.styles.css
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.csproj.CopyComplete
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\refint\API_INTERNA.dll
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.pdb
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\API_INTERNA.genruntimeconfig.cache
+C:\Users\IsaacRomero\Documents\aplicaciones distribuidas\API_INTERNA_02\API_INTERNA\API_INVETARIO\API_INVETARIO\obj\Debug\net6.0\ref\API_INTERNA.dll

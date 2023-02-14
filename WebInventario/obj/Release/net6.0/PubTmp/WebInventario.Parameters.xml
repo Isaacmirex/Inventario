@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="appwebInventario" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\UTN_Software\\6toSemestre\\Aplicaciones\ Distribuidas\\Modulo\ Inventario\\WebInventario\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

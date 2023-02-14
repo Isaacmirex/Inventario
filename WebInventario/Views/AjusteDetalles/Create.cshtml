@@ -1,0 +1,113 @@
+﻿@model WebInventario.Models.AjusteDetalle
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<style>
+    body {
+        background-image: url("https://img.freepik.com/vector-premium/mujer-almacen-comprobando-niveles-inventario-mercancias-estanteria_327176-153.jpg?w=2000");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+</style>
+<div style="background-color: rgba(255, 255, 255, 0.5);">
+    
+<h1>Create</h1>
+
+<h4>Ajustes Inventario</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <input type="hidden" asp-for="det_id" class="form-control" value="0" />
+
+            <div class="form-group">
+                <label asp-for="cabeceracab_id" class="control-label"><b>Ajuste Cabecera</b></label>
+                @Html.DropDownList("cabeceracab_id", ViewBag.ListaAjusCabecera, "--Elija Ajuste Cabecera--", new { @class = "form-select" })
+                <span asp-validation-for="cabeceracab_id" class="text-danger"></span>
+            </div>
+            <!-- ingresar la fecha actual-->
+            <div class=" form-group">
+                <label class="control-label"><b>Fecha  - Hora</b></label>
+                <input type="datetime" class="form-control" value="@DateTime.Parse(DateTime.Now.AddHours(-5).ToString()).ToString("dd-MM-yyyy HH:mm:ss")" readonly="readonly" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Productoprod_id" class="control-label"><b>Producto</b></label>
+                @Html.DropDownList("Productoprod_id", ViewBag.ListaProducto, "--Elija Producto--", new { @class = "form-select" })
+                <span asp-validation-for="Productoprod_id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="det_catidad" class="control-label"><b>Cantidad</b></label>
+                <input asp-for="det_catidad" class="form-control" />
+                <span asp-validation-for="det_catidad" class="text-danger"></span>
+            </div>
+            <div id="errorMessage" class="text-danger"></div>
+            <br/>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" 
+                                                                onclick="return validateInput(this.form);"/>
+            </div>
+        </form>
+    </div>
+    <div>
+        <a asp-action="Index" class="btn btn-success m-1">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left" viewBox="0 0 16 16">
+                <path fill-rule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8z" />
+            </svg> Regresar
+        </a>
+     </div>
+</div>
+            
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+    <script>
+        const agregarProductoButton = document.getElementById('btn-agregar-fila');
+        const tablaDetalles = document.getElementById('tabla-detalles');
+        agregarProductoButton.addEventListener('click', function () {
+            const productoSelect = document.getElementById('Productoprod_id');
+            const selectedProducto = productoSelect.options[productoSelect.selectedIndex];
+            const cantidadInput = document.getElementById('det_catidad');
+            const cantidad = cantidadInput.value;
+
+            const newRow = tablaDetalles.insertRow();
+            const productoCell = newRow.insertCell();
+            const cantidadCell = newRow.insertCell();
+            const accionesCell = newRow.insertCell();
+
+            productoCell.innerHTML = selectedProducto.text;
+            cantidadCell.innerHTML = cantidad;
+            accionesCell.innerHTML = '<button type="button" class="btn btn-danger">Eliminar</button>';
+
+            const eliminarButton = document.getElementsByClassName('btn-danger');
+            for (let i = 0; i < eliminarButton.length; i++) {
+                eliminarButton[i].addEventListener('click', function () {
+                    this.parentNode.parentNode.remove();
+                });
+            }
+        })                   
+    </script>
+    <script>
+        function validateInput(form) {
+
+            var cab = form.elements["cabeceracab_id"].value;
+            var cantidad = form.elements["det_catidad"].value;
+            
+            if (cab === "CAB-0001" && cantidad <= 0) {
+                errorMessage.innerHTML = "Error. No se permite números negativos o (0), en Ajuste Inicial";
+                return false;
+            } else if (cab === "CAB-0002" && cantidad >= 0) {
+                errorMessage.innerHTML = "Error. No se permite números positivos o (0), en Ajuste Caducados";
+                return false;
+            } else {
+                errorMessage.innerHTML = "";
+            }
+            return true;
+        }
+
+    </script>
+}

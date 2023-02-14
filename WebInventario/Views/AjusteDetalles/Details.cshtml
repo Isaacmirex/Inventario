@@ -1,0 +1,71 @@
+﻿@model WebInventario.Models.AjusteDetalle
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<style>
+    body {
+        background-image: url("https://img.freepik.com/vector-premium/mujer-almacen-comprobando-niveles-inventario-mercancias-estanteria_327176-153.jpg?w=2000");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+</style>
+
+<div style="background-color: rgba(255, 255, 255, 0.5);">
+    <img src="https://img.freepik.com/vector-premium/mujer-almacen-comprobando-niveles-inventario-mercancias-estanteria_327176-153.jpg?w=2000"
+         style="position: fixed; z-index: -1; width: 100%; height: 100%;">
+         
+<h1>Details</h1>
+
+<div>
+    <h4>Ajustes Inventario</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            <h7> Ajuste Cabecera </h7>
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cabecera.cab_doc) - 
+            @Html.DisplayFor(model => model.cabecera.cab_descripcion)
+        </dd>
+        <dt class = "col-sm-2">
+            <h7> Cantidad </h7>
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.det_catidad)
+        </dd>
+        <dt class = "col-sm-2">
+            <h7> Producto </h7>
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Producto.prod_nombre) -
+            @Html.DisplayFor(model => model.Producto.prod_id)
+        </dd>
+        <dt class = "col-sm-2">
+            <h7> IVA </h7>
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Producto.prod_iva)
+        </dd>
+        <dt class = "col-sm-2">
+            <h7> PVP </h7>
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Producto.prod_pvp)
+        </dd>
+        <dt class="col-sm-2">
+            <h7> Stock </h7>
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Producto.prod_stock)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index" class="btn btn-success m-1">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8z" />
+        </svg> Regresar
+    </a>
+</div>

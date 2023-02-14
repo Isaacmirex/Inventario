@@ -1,0 +1,56 @@
+﻿@model WebInventario.Models.AjusteCabecera
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<style>
+    body {
+        background-image: url("https://img.freepik.com/vector-premium/mujer-almacen-comprobando-niveles-inventario-mercancias-estanteria_327176-153.jpg?w=2000");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+</style>
+<div style="background-color: rgba(255, 255, 255, 0.5);">
+
+<h1>Details</h1>
+
+<div>
+    <h4>Ajuste Cabecera</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            <h7> ID Ajuste Cabecera </h7>
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.cab_id)
+        </dd>
+        <dt class = "col-sm-2">
+            <h7> Fecha - Hora </h7>
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cab_fecha)
+        </dd>
+        <dt class = "col-sm-2">
+            <h7> Documento </h7>
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cab_doc)
+        </dd>
+        <dt class = "col-sm-2">
+            <h7> Descripción </h7>
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.cab_descripcion)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" class="btn btn-warning" asp-route-id="@Model?.cab_id">Edit</a> |
+    <a asp-action="Index" class="btn btn-success m-1">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-left" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8z" />
+        </svg> Regresar
+    </a>
+</div>

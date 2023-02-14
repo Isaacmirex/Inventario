@@ -1,0 +1,120 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebInventario
+build_property.RootNamespace = WebInventario
+build_property.ProjectDir = C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\WebInventario\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\UTN_Software\6toSemestre\Aplicaciones Distribuidas\Modulo Inventario\WebInventario
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/AjusteCabeceras/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWp1c3RlQ2FiZWNlcmFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/AjusteCabeceras/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWp1c3RlQ2FiZWNlcmFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/AjusteCabeceras/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWp1c3RlQ2FiZWNlcmFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/AjusteCabeceras/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWp1c3RlQ2FiZWNlcmFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/AjusteCabeceras/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWp1c3RlQ2FiZWNlcmFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/AjusteDetalles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWp1c3RlRGV0YWxsZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/AjusteDetalles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWp1c3RlRGV0YWxsZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/AjusteDetalles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWp1c3RlRGV0YWxsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/Categorias/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/Categorias/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/Categorias/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/Categorias/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/Categorias/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/Historials/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWFsc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/Productos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/Productos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/Productos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/Productos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/Productos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/UTN_Software/6toSemestre/Aplicaciones Distribuidas/Modulo Inventario/WebInventario/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-uzk88xh6i7
