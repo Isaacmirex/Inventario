@@ -1,4 +1,4 @@
-#Inventory
+**Inventory**
 ##Authors
 
 Isaac Romero, Heinz Delgado, Gustavo Gualan, Steeven Enriquez
